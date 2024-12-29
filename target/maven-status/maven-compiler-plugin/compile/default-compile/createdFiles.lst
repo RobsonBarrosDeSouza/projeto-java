@@ -1,0 +1,13 @@
+br\com\biblioteca\model\Pessoa.class
+br\com\biblioteca\services\ProjetoService.class
+br\com\biblioteca\controller\IndexController.class
+br\com\biblioteca\controller\ProjetoController.class
+br\com\biblioteca\dto\ProjetoDTO.class
+br\com\biblioteca\MainServer.class
+br\com\biblioteca\enums\Status.class
+br\com\biblioteca\model\Projeto.class
+br\com\biblioteca\services\PessoaService.class
+br\com\biblioteca\controller\PessoaController.class
+br\com\biblioteca\repository\PessoaRepository.class
+br\com\biblioteca\configuration\DevDatabaseConfig.class
+br\com\biblioteca\repository\ProjetoRepository.class

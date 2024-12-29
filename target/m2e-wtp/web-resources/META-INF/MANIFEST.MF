@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: Desafio Java
+Implementation-Version: 1.0
+Main-Class: br.com.biblioteca.MainServer
+Created-By: Maven Integration for Eclipse
+Dependencies: jdk.unsupported
+
